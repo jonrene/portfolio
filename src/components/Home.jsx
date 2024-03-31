@@ -4,8 +4,8 @@ export default function Home(){
             <section className='home-section' id='home-section'>
                 <div className='home-container'>
                     <div className='home-blurb'> 
-                        <h1>Front-End Developer</h1>
-                        <p>Hi there, I'm Jonathan Rene. A passionate Front-end Developer based in Brooklyn, NY. 📍</p>
+                        <h1>Software Engineer</h1>
+                        <p>Hi there, I'm Jonathan Rene. A passionate Software Engineer based in Brooklyn, NY. 📍</p>
                         <div>
                             <a target='_blank' href='https://github.com/jonrene'>GitHub</a>
                             <a target='_blank' href='https://www.linkedin.com/in/jonathan-rene-87a531171/'>LinkedIn</a>
