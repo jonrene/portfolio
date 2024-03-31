@@ -1,7 +1,6 @@
 export default function Overlay(){
 
     function menuClick(e){
-        console.log("hello, world");
         document.getElementsByClassName('overlay')[0].style.display = 'none';
     }
 
