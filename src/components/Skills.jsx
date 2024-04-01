@@ -59,7 +59,7 @@ export default function Skills(){
                             </li>
                             <li className='skills-list-item'>
                                 <div className='skill-image'><img src='./src/assets/skillsPhotos/pinia.png' alt='pinia'></img></div>
-                                Pina
+                                Pinia
                             </li>
                             <li className='skills-list-item'>
                                 <div className='skill-image'><img src='./src/assets/skillsPhotos/git.png' alt='git'></img></div>
