@@ -9,7 +9,7 @@ export default function Home(){
                         <div>
                             <a target='_blank' href='https://github.com/jonrene'>GitHub</a>
                             <a target='_blank' href='https://www.linkedin.com/in/jonathan-rene-87a531171/'>LinkedIn</a>
-                            <a target='_blank' href='https://docs.google.com/document/d/1vg7WJhQC1Z-t3CvxAPt97-2idObIWZFc/edit?usp=sharing&ouid=108330271147073072002&rtpof=true&sd=true'>Resume</a>
+                            <a target='_blank' href='https://docs.google.com/document/d/1vg7WJhQC1Z-t3CvxAPt97-2idObIWZFc/edit'>Resume</a>
                         </div>
                     </div>
                     <div className='profile-image'>
