@@ -1,12 +1,12 @@
 const projectsData = [
-  {
-    title: "YouTube.com Clone",
-    description: "Created a fully functional replica of the YouTube homepage with fully interactive elements.",
-    tools: "ReactJS, HTML, CSS, NodeJS, Vite",
-    photo: "./src/assets/projectPhotos/youtube.png",
-    code: "https://github.com/jonrene/youtubeclone",
-    demo: "https://jonrene.github.io/youtubeclone/",
-  },
+  // {
+  //   title: "YouTube.com Clone",
+  //   description: "Created a fully functional replica of the YouTube homepage with fully interactive elements.",
+  //   tools: "ReactJS, HTML, CSS, NodeJS, Vite",
+  //   photo: "./src/assets/projectPhotos/youtube.png",
+  //   code: "https://github.com/jonrene/youtubeclone",
+  //   demo: "https://jonrene.github.io/youtubeclone/",
+  // },
   {
       title: "Roll20 Pathfinder Second Edition Character Sheet",
       description: "Contributed to the development of the official Roll20 Pathfinder Second Edition Character Sheet by Paizo",
